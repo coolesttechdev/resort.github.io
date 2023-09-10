@@ -1,2 +1,1 @@
-# resort.github.io
-resort booking website
+# test-resort
